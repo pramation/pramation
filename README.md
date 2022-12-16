@@ -41,7 +41,7 @@ Highlights: over 700+ hours of coursework, completed 10 individual projects and 
 * Create staging tables in AWS Redshift and load it  from source files on AWS s3  
 * Create Star Schema in PostgreSQL and load it from Redshift’s staging tables   
 * Use `Python`, `Redshift`, `PostgreSQL` & `Airflow` to build and automate this pipeline  
-
+----------------------------------------------------------------------------------------------------------
 * 🌱 I’m currently learning <b> Machine Learning </b>
 
 * 👨‍💻 All of my projects are available at my [Jovian Profile](https://jovian.ai/pramation)  
