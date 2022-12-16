@@ -1,14 +1,14 @@
-<h1 style="text-align: center;">Hi, I'm Praveen N</h1>
+<h1 align="center">Hi, I'm Praveen </h1>
 
-### I have completed 
+### I have recently completed 
 
-#### Data Science Bootcamp, Jovian  
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
+#### Data Science Bootcamp, at Jovian  
+Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics  
+Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)  
 
-#### Data Engineering & Cloud DevOps NanoDegree program, Udacity  
-Courses: Data Modeling, Build Data Lake & Data Pipelines. Build CI/CD pipelines
-Highlights: over 700+ hours of coursework, completed 10 individual projects and 2 Capstone Projects
+#### Data Engineering & Cloud DevOps NanoDegree program, at Udacity  
+Courses: Data Modeling, Build Data Lake & Data Pipelines. Build CI/CD pipelines  
+Highlights: over 700+ hours of coursework, completed 10 individual projects and 2 Capstone Projects  
 
 ##### My Projects
 ##### Machine Learning, Favorita Grocery Sales Forecasting [Link](https://jovian.ai/pramation/favorita-grocery-sales-forecasting-project3#C351) [Blog](https://medium.com/@pramation/machine-learning-with-favorita-grocery-sales-forecasting-8254616d159c)
